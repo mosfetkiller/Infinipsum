@@ -1,3 +1,8 @@
+/**
+ * @copyright https://github.com/f/loremjs
+ * @licence https://github.com/f/loremjs/blob/master/LICENSE
+ */
+
 var Lorem;
 (function() {
 
